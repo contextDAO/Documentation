@@ -34,5 +34,26 @@ Individual or collective “reputation” among the community will define your r
 
 ![Working group structure 0 1](https://user-images.githubusercontent.com/78653335/152519183-0c804c6a-a82e-4b1e-810c-66a1019306d8.PNG)
 
+## How to join UNITE DAO
+
+Join UNITE DAO is quite easy, you just need to stake a minimum amount (TBD) of FIDE. Staking FIDE gives you access to UNITE DAO community. Nevertheless, once into the community, you will have to select which vertical you want to join. 
+
+This “selection” will allow you to become part of the working groups of that vertical, which means that you will be allowed to actively.
+Selecting a vertical to join will have a direct impact on how UNITE DAO funds, provided by the treasury revenue, are distributed along the different verticals. 
+
+## Forging ahead within a working groups (WIP)
+
+As major responsibility, more the skin on the game demanded.  This is why, when someone want to take more responsability in a working group "a certain amount of stable coins are required to be staked" (This concept is currently under review) . Either through their capital or deposited by third parties. Two main functions justify the staking of stable coins.
+
+The first one, if the participant act dishonestly, will be UNSLAHED
+
+The second one is that staked stable coins will be used to generate an income (through lending or Stable coin LP) which will help to bankroll part of the working groups’ costs. 
+
+
+
+
+
+
+
 
 WIP
