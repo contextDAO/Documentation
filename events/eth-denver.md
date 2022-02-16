@@ -2,7 +2,7 @@
 
 ![eth denver](../assets/eth-denver.jpg)
 
-We will meet during Eth Denver to wxplain [Unite DAO](../README.md) in detail in order to get support from other DAOs, Projects, and Individuals.
+We will meet during Eth Denver to explain [Unite DAO](../README.md) in detail in order to get support from other DAOs, Projects, and Individuals.
 
 ## When
 Feb 17, 2022; 3PM
