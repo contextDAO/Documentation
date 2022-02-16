@@ -20,3 +20,16 @@ Both goals are based on FIDE, the native token of UNITE DAO. Its main purpose ca
 
 ![Fide Workflow](https://user-images.githubusercontent.com/78653335/152517463-ab878aef-7a57-40e0-a3a9-3178e448c732.PNG)
 
+## How do we plan to capitalize UNITE DOA
+
+Grants and Swapping
+During the early stages of Unit DAO, there will be 2 main streams to capitalize the Project. 
+
+1.The first one is applying for grants. The money raised will be used to build up a team to materialize the Project.
+2. The second one will be by swapping tokens (using PRIME DAO launching platform). That will mean entering a partnership with key protocols, committed to UNITE DAO vision. The swapped FIDE tokens will be automatically vested for a minimum of time (6 months).
+
+TBE (Treasury Bootstrapping Event) and FIDE purchasing
+We want FIDE to be a strongly driven community token. One way to achieve that is through only selling s.FIDE (staked FIDE).  
+s.FIDE will be purchasable with STABLE/$token (TBD) and will be subject to a vested period of #  ( TBD).  
+
+
