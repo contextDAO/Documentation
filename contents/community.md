@@ -25,7 +25,7 @@ Project success also depends on a solid and engaged community. So let's dive dee
 
 - Youtube + Medium + Live Events (Situational Marketing)
 
-Our focus will be on the Youtube channel. This will be our main Macro-content channel. The first 6 episodes will be with Alex Puig [cryptobenkei](https://github.com/cryptobenkei) and Arturas Salnikovas (@art0eth). Later we will invite other team members from different departments to speak and share experiences. After that, we will start with Guests - there will be a schedule of invitations with crypto projects and entrepreneurs.
+Our focus will be on the Youtube channel. This will be our main Macro-content channel. The first 6 episodes will be with Alex Puig ([cryptobenkei](https://github.com/cryptobenkei)) and Arturas Salnikovas (@art0eth). Later we will invite other team members from different departments to speak and share experiences. After that, we will start with Guests - there will be a schedule of invitations with crypto projects and entrepreneurs.
 
 ## Micro-content:
 
