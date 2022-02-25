@@ -17,7 +17,6 @@ Trust coordination framework to elaborate and evolve standards for WEB3.
 
 Unite DAO aims to become a decentralized community-focused constant evolution of standards for the Blockchain ecosystem.
 
-
 Web3 is growing fast, but we still lack a proper way to verify organizations. At the institutional level, we have a combination of CAs, Qualified Digital Signature, and Standardization Bodies (ISO, UNE…). Unfortunately, these traditional institutions are usually agencies with no transparency, interoperability, and modern tools to develop applications on top of them.
 In the traditional Identity Landscape, Trust is achieved by centralizing and protecting existing players.  As a result, innovation is always slow and limited to small participants.
 
@@ -25,7 +24,7 @@ On the other hand, DAOs are becoming more popular and gaining traction as a tran
 
 All the tools to achieve Trustless Interoperability are within our grasp — we need to bring them together in a digital-first institutional design.
 
-Let's discuss this at the "Jonas" venue this Thursday!
+
 
 # Future for Unite DAO
 
