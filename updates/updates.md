@@ -1,6 +1,8 @@
 
 Update #1
 
+![eth denver](../assets/eth-denver.jpg)
+
 UNITE DAO ETH DENVER
 
 
