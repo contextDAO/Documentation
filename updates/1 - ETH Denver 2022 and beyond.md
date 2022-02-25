@@ -26,8 +26,7 @@ Let's discuss this at the "Jonas" venue this Thursday!
 
 
 
-A #Bit# about unite DAO
-
+# A BIT about Unite DAO
 
 
 
