@@ -1,5 +1,7 @@
 # Building Community
 
+![community](../assets/community.png)
+
 
 Project success also depends on a solid and engaged community. So let's dive deep into the Unite DAO Community-Building Strategy to understand how we will build.
 
