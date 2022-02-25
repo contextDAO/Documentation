@@ -1,5 +1,5 @@
 
-Update #1
+#ETH Denver 2022 and beyond
 
 ![eth denver](../assets/eth-denver.jpg)
 
