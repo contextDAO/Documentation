@@ -31,7 +31,7 @@ Our focus will be on the Youtube channel. This will be our main Macro-content ch
 
 - Social media posts
 
-We have prepared the main social media platforms for our content distribution. We will make a long-form video for Youtube first, then - we will distribute this video in short chunks across all our social media channels: Twitter, Telegram, Discord, Medium, Reddit, Facebook, Instagram, LinkedIn, Substack.
+We have prepared the main social media platforms for our content distribution. We will make a long-form video for Youtube first, then - we will distribute this video in short chunks across all our social media channels: Twitter, Telegram, Discord, Medium, Reddit, Facebook, Instagram, LinkedIn, Substack, Mirror.
 
 
 # Content strategy:
