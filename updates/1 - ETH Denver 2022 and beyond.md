@@ -42,12 +42,13 @@ We believe standards are a public good. Therefore people who make standards and 
 
 During the past month, we have been thinking about Tokenomics and the main features of the protocol native token — FIDE.
 
-Finally, we arrived at two main conclusions:
+*Finally, we arrived at two main conclusions:*
 
 - FIDE will give voting power over the DAO, the selection, and the creation of standards.
 - FIDE must catch the long-term value creation of Unite DAO to guarantee financial sustainability.
 
-To start the project, we needed three things:
+*To start the project, we needed three things:*
+
 1. A multidisciplinary core team is committed and involved with the project.
 2. An initial amount of capital to bankroll the first phases of Unite DAO development.
 3. A community conformed by key partners within the ecosystem.
