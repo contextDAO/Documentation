@@ -22,7 +22,7 @@ Feb 17, 2022; 3PM
 
 ## About Unite DAO
 
-Trust coordination framework to elaborate and evolve standards for WEB3.
+***Trust coordination framework to elaborate and evolve standards for WEB3.***
 
 Unite DAO aims to become a decentralized community-focused constant evolution of standards for the Blockchain ecosystem.
 
