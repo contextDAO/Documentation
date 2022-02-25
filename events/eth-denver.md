@@ -1,4 +1,4 @@
-# ETH.Denver — Unite DAO Short Intro
+# ETH Denver 2022 — Unite DAO Short Intro
 
 ![eth denver](../assets/eth-denver.jpg)
 
