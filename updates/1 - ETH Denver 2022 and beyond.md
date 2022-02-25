@@ -1,20 +1,30 @@
-
 # ETH Denver 2022 and beyond
+
+
 
 ![eth denver](../assets/eth-denver.jpg)
 
 
+
 We have met during ETH Denver to explain [Unite DAO](../README.md) in detail in order to get support from other DAOs, Projects, and Individuals.
+
+
 
 ## When
 Feb 17, 2022; 3PM
 
+
+
 ## Where
 "Jonas" Venue — The top floor of the historic Jonas Brothers Furs Building has been transformed into an epic BUIDL space between February 14th - 17th, powered by NEAR.
 
+
+
 ## About Unite DAO
 
-Unite DAO aims to become a decentralized community-focused constant evolution of standards for the Blockchain ecosystem — Trust coordination framework to elaborate and evolve standards for WEB3.
+Trust coordination framework to elaborate and evolve standards for WEB3.
+
+Unite DAO aims to become a decentralized community-focused constant evolution of standards for the Blockchain ecosystem.
 
 Web3 is growing fast, but we still lack a proper way to verify organizations. At the institutional level, we have a combination of CAs, Qualified Digital Signature, and Standardization Bodies (ISO, UNE…). Unfortunately, these traditional institutions are usually agencies with no transparency, interoperability, and modern tools to develop applications on top of them.
 In the traditional Identity Landscape, Trust is achieved by centralizing and protecting existing players.  As a result, innovation is always slow and limited to small participants.
@@ -26,18 +36,6 @@ All the tools to achieve Trustless Interoperability are within our grasp — we 
 
 
 # Future for Unite DAO
-
-
-
-
-
-
-
-
-
-
-
-
 
 We believe standard are a public good. This means that they should be fu people who make them and 
 maintain them should be paid well.
