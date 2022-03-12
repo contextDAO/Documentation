@@ -1,4 +1,4 @@
-![Unite DAO](./assets/2.png)
+![Unite pfp](https://github.com/Unite-DAO/Documentation/blob/main/assets/Unite%20pfp.png)
 
 # Index
 
