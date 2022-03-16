@@ -101,7 +101,7 @@ There are some standards in the world that you need to pay if you want to use th
 
 ❤️ Standards should be Public Goods and open-source so everybody can use them.
 
-📺 Watch the full episode here: https://www.youtube.com/watch?v=563j_mqu1N0
+📺 [Watch the full episode on Youtube](https://www.youtube.com/watch?v=563j_mqu1N0)
 
 ***
 
