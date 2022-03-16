@@ -5,15 +5,17 @@
 
 Project success also depends on a solid and engaged community. So let's dive deep into the Unite DAO Community-Building Strategy to understand how we will build.
 
+***
 
-## Goals:
+### Goals:
 
 - Build a solid and engaged community.
 - Create and maintain community channels: Discord, Twitter, Telegram, Youtube.
 - Create Content Strategies for the different channels.
 
+***
 
-## Key questions:
+### Key questions:
 
 - *What macro content will we create?*
 - *On what channels will we create it?*
@@ -22,21 +24,25 @@ Project success also depends on a solid and engaged community. So let's dive dee
 - *How will we listen to our audience?*
 - *How will we measure our KPI’s?*
 
+***
 
-## Macro-content:
+### Macro-content:
 
 - Youtube + Medium + Live Events (Situational Marketing)
 
 Our focus will be on the Youtube channel. This will be our main Macro-content channel. The first 6 episodes will be with Alex Puig ([cryptobenkei](https://github.com/cryptobenkei)) and Arturas Kateiva ([art0eth](https://github.com/art0eth)). Later we will invite other team members from different departments to speak and share experiences. After that, we will start with Guests - there will be a schedule of invitations with crypto projects and entrepreneurs.
 
-## Micro-content:
+***
+
+### Micro-content:
 
 - Social media posts
 
 We have prepared the main social media platforms for our content distribution. We will make a long-form video for Youtube first, then - we will distribute this video in short chunks across all our social media channels: Twitter, Telegram, Discord, Medium, Reddit, Facebook, Instagram, LinkedIn, Substack, Mirror.
 
+***
 
-# Content strategy:
+### Content strategy:
 
 1. **Inspiration** — Problems and questions people ask in our niche. 
 We also can look at our socials and get inspiration for content. 
@@ -68,8 +74,9 @@ Keywords will be the central axis where we will create our content around.
 7. **Content Strategy Map:**
 [Visit this link to see the Content Strategy Map](https://www.figma.com/file/UlRfLWL7SlHyIh7sDCCV0N/Building-Community?node-id=0%3A1)
 
+***
 
-## Re-Use the Content (Micro-content):
+### Re-Use the Content (Micro-content):
 
 - Break the Youtube videos into chunks/sections.
 - Optimize the copy. Turn chunks/sections into social media posts.
@@ -77,8 +84,9 @@ Keywords will be the central axis where we will create our content around.
 - Make it scannable/readable.
 - Create graphics/pictures for the posts.
 
+***
 
-## Post Formula:
+### Post Formula:
 
 1. (Headline)
 2. Hook
@@ -86,29 +94,33 @@ Keywords will be the central axis where we will create our content around.
 4. Solution
 5. CTA
 
+***
 
-## Content Calendar and Tools:
+### Content Calendar and Tools:
 
 - Create a content calendar. We use Sprout Social to schedule all posts.
 - No more than 30 days upfront.
 - Always leave some space for new ideas and breaking news.
 
+***
 
-## Email Marketing:
+### Email Marketing:
 
 Collect email addresses and start using Value VSL Strategy:
 [Visit this link to see the Value VSL Strategy](https://www.figma.com/file/UlRfLWL7SlHyIh7sDCCV0N/Building-Community?node-id=0%3A1)
 
+***
 
-
-# Discord Community Building Guide:
+### Discord Community Building Guide:
 
 1. Setup Discord Channel `(DONE)`
 2. Setup Permissions `(DONE)`
 3. Setup Roles `(DONE)`
 4. Setup Bots `(DONE)`
 
-## Key components to create a successful Discord Community:
+***
+
+### Key components to create a successful Discord Community:
 
 - Decide if it’s a closed or open community (Discord - paid or free).
 - Well-known Goals, Vision, Mission, Principles. Create a separate channel for this on Discord Server. 
@@ -135,28 +147,33 @@ Collect email addresses and start using Value VSL Strategy:
 - Mods. Assign some very active and helpful people as Mods of the community.
 - Hype and expectation - Well-known ahead-of-time roadmap.
 
+***
 
-# Community Acquisition Strategy:
+### Community Acquisition Strategy:
 
-## Stage #1 — Build and Create:
+### Stage #1 — Build and Create:
 - Build Social Channels. `(DONE)`
 - Build Youtube Channel. `(DONE)`
 - Create Content Strategy. `(DONE)`
 
-## Stage #2 — Deliver/Execute:
+### Stage #2 — Deliver/Execute:
 - Produce Youtube Videos. `(WIP)`
 - Post on Social Channels. `(WIP)`
 - Engage with Members. `(WIP)`
 
-## Stage #3 — Maintain/Explore:
+### Stage #3 — Maintain/Explore:
 - Track Insights (KPI’s). `(WIP)`
 - Support Members. `(WIP)`
 - Look for Opportunities (Partnerships). `(WIP)`
 
-# Social Channels
+***
+
+### Social Channels
 - [Check all Unite DAO social channels.](https://linktr.ee/unitedao)
 
 - [Check Unite DAO Roadmap.](https://github.com/Unite-DAO/Documentation/wiki/Unite-DAO-Roadmap)
+
+***
 
 ### The keyword for success is — VALUE.
 
