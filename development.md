@@ -1,5 +1,6 @@
 # Public Sale
-After the Public Sale, invested money will be used to pay some companies to do the initial development
+
+After the Public Sale, invested money will be used to pay some companies to do the initial development.
 
 We will publish all the agreements and invoices of all the companies involved.
 
@@ -16,52 +17,71 @@ Public Sale Objective : $2,500,000.00
 - PR Firm : $500,000.00
 - Security : $100,000.00
 
-## Coordination & Product
+***
+
+### Coordination & Product
 - DAO Coordination
 - Product Design
 - Public Sale
 - Partnerships
 
-## DAO Development
+***
+
+### DAO Development
 - Testnet - Starknet
 - DAO development
 - Bridge to L1
 - Basic Voting system
 
-## Tokenomics
+***
+
+### Tokenomics
 - Toking Design
 - LP STrategy
 - Treasury
 
-## Community
+***
+
+### Community
 - Create and maintain community channels: Discord, Twitter, Telegram.
 - Content Strategy for the different channels.
 - Build community and help coordinate the different DAO Working Groups.
 
-## Legal Firm
+***
+
+### Legal Firm
 - DAO incorporation
 - Legal advisors
 
-## Frontend and App
+***
+
+### Frontend and App
 - Design
 - Style guide
 - Frontend 
 - Mobile App
 
-## Partnership
-- Find and coordinate Partners
-- Incentive program
+***
 
+### Partnership
+- Find and coordinate Partners.
+- Incentive program.
 
-## Grants
+***
+
+### Grants
 - Community Grants to start Standards
 
-## PR Firm
+***
+
+### PR Firm
 - Communication
 - Press releases
 - Community
 
-## Security
+***
+
+### Security
 - Security audits
 - Pentesting
 
