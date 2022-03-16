@@ -103,7 +103,7 @@ There are some standards in the world that you need to pay if you want to use th
 
 📺 [Watch the full episode on Youtube.](https://www.youtube.com/watch?v=563j_mqu1N0)
 
-👤 Meet the Core Team.
+👤 [Meet the Core Team.](https://github.com/Unite-DAO/Documentation/blob/main/updates/6.%20Meet%20the%20Core%20Team.md)
 
 🪙 Unite DAO Tokenomics.
 
