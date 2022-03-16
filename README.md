@@ -53,7 +53,9 @@ And then in this standardization body, all of the big companies like Microsoft o
 
 That's a big business. 
 
-## Then comes Web3.
+***
+
+### Then comes Web3.
 
 And in Web3, we also need the standards, a lot of them. 
 But the speed is entirely different, and the standards we need are also different. 
@@ -69,7 +71,9 @@ And if we do standards, not by experts but by doers, and we move the lifecycle o
 
 Every time we speak to other protocols, they have a problem because there are five protocols, and all of them are naming things differently, and there's no way they can just put it together.
 
-## So this coordination is where we go in. 
+***
+
+### So this coordination is where we go in. 
 
 We will offer a way where coders, people who are building something, go to this Wikipedia for standards because we want to have them in the same place. 
 
