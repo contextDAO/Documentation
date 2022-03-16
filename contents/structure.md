@@ -49,11 +49,12 @@ The first one, if the participant act dishonestly, will be UNSLAHED
 
 The second one is that staked stable coins will be used to generate an income (through lending or Stable coin LP) which will help to bankroll part of the working groups’ costs. 
 
+***
 
+💬 Always a good idea to join our [Discord Server.](https://discord.gg/7RwPerFPe8)
 
+🆕 Check [New Updates.](https://github.com/Unite-DAO/Documentation/tree/main/updates)
 
+🏠 Go back to [Home Page.](https://github.com/Unite-DAO/Documentation)
 
-
-
-
-WIP
+***
