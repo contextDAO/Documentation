@@ -103,6 +103,10 @@ There are some standards in the world that you need to pay if you want to use th
 
 📺 [Watch the full episode on Youtube.](https://www.youtube.com/watch?v=563j_mqu1N0)
 
+👤 Meet the Core Team.
+
+🪙 Unite DAO Tokenomics.
+
 ***
 
 Always a good idea to join our [Discord Server](https://discord.gg/7RwPerFPe8).
