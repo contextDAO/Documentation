@@ -168,7 +168,8 @@ Collect email addresses and start using Value VSL Strategy:
 
 ***
 
-### Social Channels
+### Social Channels:
+
 - [Check all Unite DAO social channels.](https://linktr.ee/unitedao)
 
 - [Check Unite DAO Roadmap.](https://github.com/Unite-DAO/Documentation/wiki/Unite-DAO-Roadmap)
