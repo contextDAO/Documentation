@@ -21,3 +21,13 @@ On the other hand, DAOs are becoming more popular and gaining traction as a tran
 All the tools to achieve Trustless Interoperability are within our grasp — we need to bring them together in a digital-first institutional design.
 
 Let's discuss this at the "Jonas" venue this Thursday!
+
+***
+
+💬 Always a good idea to join our [Discord Server.](https://discord.gg/7RwPerFPe8)
+
+🆕 Check [New Updates.](https://github.com/Unite-DAO/Documentation/tree/main/updates)
+
+🏠 Go back to [Home Page.](https://github.com/Unite-DAO/Documentation)
+
+***
