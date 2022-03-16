@@ -6,7 +6,7 @@
 
 
 
-## Standards are Public Goods, we say. But why is that? 
+### Standards are Public Goods, we say. But why is that? 
 
 ### What standards are, why do we need them, who will build, and who will use standards? 
 
