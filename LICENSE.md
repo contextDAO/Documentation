@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+***
+
+💬 Always a good idea to join our [Discord Server.](https://discord.gg/7RwPerFPe8)
+
+🆕 Check [New Updates.](https://github.com/Unite-DAO/Documentation/tree/main/updates)
+
+🏠 Go back to [Home Page.](https://github.com/Unite-DAO/Documentation)
+
+***
