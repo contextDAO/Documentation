@@ -1,3 +1,5 @@
+# Standards are Public Goods.
+
 ![Unite pfp](https://github.com/Unite-DAO/Documentation/blob/main/assets/Unite%20pfp.png)
 
 # Index
