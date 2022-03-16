@@ -72,7 +72,7 @@ Keywords will be the central axis where we will create our content around.
 - Paid — Youtube, LinkedIn, and Facebook Ads.
 
 7. **Content Strategy Map:**
-[Visit this link to see the Content Strategy Map](https://www.figma.com/file/UlRfLWL7SlHyIh7sDCCV0N/Building-Community?node-id=0%3A1)
+[Visit this link to see the Content Strategy Map.](https://www.figma.com/file/UlRfLWL7SlHyIh7sDCCV0N/Building-Community?node-id=0%3A1)
 
 ***
 
@@ -107,7 +107,7 @@ Keywords will be the central axis where we will create our content around.
 ### Email Marketing:
 
 Collect email addresses and start using Value VSL Strategy:
-[Visit this link to see the Value VSL Strategy](https://www.figma.com/file/UlRfLWL7SlHyIh7sDCCV0N/Building-Community?node-id=0%3A1)
+[Visit this link to see the Value VSL Strategy.](https://www.figma.com/file/UlRfLWL7SlHyIh7sDCCV0N/Building-Community?node-id=0%3A1)
 
 ***
 
