@@ -158,3 +158,11 @@ Collect email addresses and start using Value VSL Strategy:
 
 
 # The keyword for success is — VALUE.
+
+***
+
+[Check all Unite DAO updates here](https://github.com/Unite-DAO/Documentation/tree/main/updates)
+
+***
+
+Always a good idea to join our [Discord Server](https://discord.gg/7RwPerFPe8).
