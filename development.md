@@ -1,4 +1,4 @@
-# Public Sale
+### Public Sale:
 
 After the Public Sale, invested money will be used to pay some companies to do the initial development.
 
@@ -19,7 +19,7 @@ Public Sale Objective : $2,500,000.00
 
 ***
 
-### Coordination & Product
+### Coordination & Product:
 - DAO Coordination
 - Product Design
 - Public Sale
@@ -27,7 +27,7 @@ Public Sale Objective : $2,500,000.00
 
 ***
 
-### DAO Development
+### DAO Development:
 - Testnet - Starknet
 - DAO development
 - Bridge to L1
@@ -35,27 +35,27 @@ Public Sale Objective : $2,500,000.00
 
 ***
 
-### Tokenomics
+### Tokenomics:
 - Toking Design
 - LP STrategy
 - Treasury
 
 ***
 
-### Community
+### Community:
 - Create and maintain community channels: Discord, Twitter, Telegram.
 - Content Strategy for the different channels.
 - Build community and help coordinate the different DAO Working Groups.
 
 ***
 
-### Legal Firm
+### Legal Firm:
 - DAO incorporation
 - Legal advisors
 
 ***
 
-### Frontend and App
+### Frontend and App:
 - Design
 - Style guide
 - Frontend 
@@ -63,25 +63,25 @@ Public Sale Objective : $2,500,000.00
 
 ***
 
-### Partnership
+### Partnership:
 - Find and coordinate Partners.
 - Incentive program.
 
 ***
 
-### Grants
+### Grants:
 - Community Grants to start Standards
 
 ***
 
-### PR Firm
+### PR Firm:
 - Communication
 - Press releases
 - Community
 
 ***
 
-### Security
+### Security:
 - Security audits
 - Pentesting
 
