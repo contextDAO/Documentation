@@ -154,14 +154,11 @@ Collect email addresses and start using Value VSL Strategy:
 - Look for Opportunities (Partnerships). `(WIP)`
 
 # Social Channels
-[Visit this link to see all Unite DAO social channels](https://linktr.ee/unitedao)
+- [Visit this link to see all Unite DAO social channels](https://linktr.ee/unitedao)
 
+- [Check all Unite DAO updates here](https://github.com/Unite-DAO/Documentation/tree/main/updates)
 
 # The keyword for success is — VALUE.
-
-***
-
-[Check all Unite DAO updates here](https://github.com/Unite-DAO/Documentation/tree/main/updates)
 
 ***
 
