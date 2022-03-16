@@ -100,3 +100,10 @@ You can scale standards, and no one controls them.
 There are some standards in the world that you need to pay if you want to use them.
 
 ❤️ Standards should be Public Goods and open-source so everybody can use them.
+
+📺 Watch the full episode here: https://www.youtube.com/watch?v=563j_mqu1N0
+
+***
+
+Always a good idea to join our [Discord Server](https://discord.gg/7RwPerFPe8).
+
