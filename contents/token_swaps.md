@@ -35,3 +35,13 @@ In addition, we will continue to explore co-development opportunities, such as:
 - etc
 
 Finally, UniteDAO and [Candidate DAO] will proactively participate in each other's Governance to help steer each DAO, by [set benchmark of voting, delegation, etc].
+
+***
+
+💬 Always a good idea to join our [Discord Server.](https://discord.gg/7RwPerFPe8)
+
+🆕 Check [New Updates.](https://github.com/Unite-DAO/Documentation/tree/main/updates)
+
+🏠 Go back to [Home Page.](https://github.com/Unite-DAO/Documentation)
+
+***
