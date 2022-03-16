@@ -64,3 +64,13 @@ Public Sale Objective : $2,500,000.00
 ## Security
 - Security audits
 - Pentesting
+
+***
+
+💬 Always a good idea to join our [Discord Server.](https://discord.gg/7RwPerFPe8)
+
+🆕 Check [New Updates.](https://github.com/Unite-DAO/Documentation/tree/main/updates)
+
+🏠 Go back to [Home Page.](https://github.com/Unite-DAO/Documentation)
+
+***
