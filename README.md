@@ -1,15 +1,9 @@
 # Standards are Public Goods.
 
+
+
 ![Unite pfp](https://github.com/Unite-DAO/Documentation/blob/main/assets/Unite%20pfp.png)
 
-# Index
-
-Work in Progress:
-- [ ] [DAO Structure](./contents/structure.md)
-- [ ] [Technology Stack](./contents/technology.md)
-- [ ] [Tokenomics](./contents/tokenomics.md)
-- [ ] [Building Community](./contents/community.md)
-- [ ] [Legal](./contents/legal.md) and [Ethics](./contents/ethics.md)
 
 
 ## Standards are Public Goods, we say. But why is that? 
