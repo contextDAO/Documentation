@@ -32,4 +32,12 @@ TBE (Treasury Bootstrapping Event) and FIDE purchasing
 We want FIDE to be a strongly driven community token. One way to achieve that is through only selling s.FIDE (staked FIDE).  
 s.FIDE will be purchasable with STABLE/$token (TBD) and will be subject to a vested period of #  ( TBD).  
 
+***
 
+💬 Always a good idea to join our [Discord Server.](https://discord.gg/7RwPerFPe8)
+
+🆕 Check [New Updates.](https://github.com/Unite-DAO/Documentation/tree/main/updates)
+
+🏠 Go back to [Home Page.](https://github.com/Unite-DAO/Documentation)
+
+***
