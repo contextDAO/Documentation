@@ -51,8 +51,8 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Name of team leader: Alex Puig.
+- Names of team members: Art Kateiva, Jahed Momand, Alex Casas, Joan de Ramon Brunet, Enrique Aznar, Alexandra Cavero.
 
 ### Contact
 
