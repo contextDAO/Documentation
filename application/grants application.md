@@ -84,8 +84,13 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/alexpuig
+- https://www.linkedin.com/in/art0eth
+- https://www.linkedin.com/in/jahedmomand
+- https://www.linkedin.com/in/alexblockchain
+- https://www.linkedin.com/in/joan-de-ram%C3%B3n-brunet-98613b124/
+- https://www.linkedin.com/in/enriqueaznar/
+- https://www.linkedin.com/in/alexandracavero/
 
 ## Development Status :open_book:
 
