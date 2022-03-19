@@ -58,7 +58,7 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 - **Contact Name:** Alex Puig
 - **Contact Email:** cryptobenkei@protonmail.com	
-- **Website:** 
+- **Website:** https://linktr.ee/unitedao
 
 ### Legal Structure
 
