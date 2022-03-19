@@ -56,9 +56,9 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Contact Name:** Alex Puig
+- **Contact Email:** cryptobenkei@protonmail.com	
+- **Website:** 
 
 ### Legal Structure
 
