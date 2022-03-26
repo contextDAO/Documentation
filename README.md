@@ -12,26 +12,21 @@
 
 *Let's dive in!* 🚀
 
-So basically, we're trying to create a framework to coordinate standards as Public Goods, so that's what the mission is like at this point, standards should be Public Goods.
+So basically, we're trying to create a framework to coordinate standards as Public Goods, so that's what the mission is like: standards should be Public Goods. But they are not Public Goods today.
 
-But they are not Public Goods today. 
+And there's a big business all around the world about standards. Companies like ISO or many institutions worldwide make a lot of money just being in the middle, the men in the middle when it comes to standards. And that's wrong because basically, the standard is just a way for two organizations to cooperate. It's interoperability between entities, whatever it is.
 
-And there's a big business all around the world about standards. 
-Companies like ISO or many institutions worldwide make a lot of money just being in the middle, the men in the middle when it comes to standards. And that's stupid because basically, the standard is just a way for two organizations to cooperate. It's interoperability between entities, whatever it is.
-
-Experts build today's standards. 
+Another thing: Experts build today's standards. 
 
 *When we say experts - we mean corporations.* 💼
 
-The way we name things so that we can cooperate, such as language, is a standard.
+The way we name things so that we can cooperate, such as language, is a standard. If we don't have language, we can't cooperate, and we don't have a standard.
 
-If we don't have language, we can't cooperate, and we don't have a standard.
+And business, they need the standards. Imagine that two companies want to buy one from each other. So they need a standard paper where they say: 
 
-And business, they need the standards. Also, imagine that two companies want to buy one from each other. So they need a standard paper where they say, like: 
+- This is the number of things I want to buy.
 
-- This is the number, the number of the things I want to buy.
-
-- Here is the price and tax, if any. 
+- Here is the price and tax.
 
 - Here is the address. 
 
@@ -39,17 +34,15 @@ So that's a standard.
 
 An invoice is some standard so companies can talk to each other. 
 
-The only way we have today to get standards is by going to standardization bodies, international bodies, where any standard takes one to five years and experts build it. 
+And the only way we can have standards today is by going to standardization bodies, international bodies, where any standard takes one to five years to build, and guess who is building it - experts.
 
 So basically, it costs a lot of money and time. 💰 🕞
 
-A business that needs a standard pays a lot of money to people who can build but don't need the standard.
+A business that needs a standard pays a lot of money to people who can build but don't need the standard. Standardization bodies are hired to create a standard but not to use it.
 
-They are hired to create a standard but not to use it. 
+And this means that basically for them, a standard it's a whitepaper of 300 pages that nobody understands, and it's normal because then everybody needs to hire them to understand that standard, and that's once again a big business.
 
-But it means that basically for them a standard, probably it's a white paper of 300 pages that nobody understands and it's normal because then everybody needs to hire them to understand that standard and that's once again a big business. 
-
-And then in this standardization body, all of the big companies like Microsoft or Google are just part of this standard body because they want to control the standard.
+All big corporations like Microsoft or Google are just part of this standardization body because they want to control the standard.
 
 That's a big business. 
 
