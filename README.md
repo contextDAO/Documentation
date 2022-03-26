@@ -53,6 +53,12 @@ And then in this standardization body, all of the big companies like Microsoft o
 
 That's a big business. 
 
+
+
+![3](https://github.com/Unite-DAO/Documentation/blob/main/assets/3.png)
+
+
+
 ***
 
 ### Then comes Web3.
