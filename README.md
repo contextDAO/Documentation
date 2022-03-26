@@ -64,7 +64,7 @@ Or take a car from one game to another.
 And it's still a car there. 
 It could work in games or other areas, like art, music, etc.
 
-So standards are huge. 🌍
+So standards are huge! 🌍
 
 And if we do standards, not by experts but by doers, and we move the lifecycle of the standard from three years to two weeks, then we can have real interoperability in Web3  that we don't have right now.
 
