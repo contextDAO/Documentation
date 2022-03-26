@@ -70,6 +70,12 @@ And if we do standards, not by experts but by doers, and we move the lifecycle o
 
 Every time we speak to other protocols, they have a problem because there are five protocols, and all of them are naming things differently, and there's no way they can just put it together.
 
+
+
+![4](https://github.com/Unite-DAO/Documentation/blob/main/assets/4.png)
+
+
+
 ***
 
 ### So this coordination is where we go in. 
@@ -84,7 +90,7 @@ There are some standards that you need to pay if you want to use them. And we th
 
 
 
-![4](https://github.com/Unite-DAO/Documentation/blob/main/assets/4.png)
+![5](https://github.com/Unite-DAO/Documentation/blob/main/assets/5.png)
 
 
 
