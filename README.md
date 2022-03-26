@@ -81,19 +81,11 @@ Every time we speak to other protocols, they have a problem because there are fi
 
 ### So this coordination is where we go in. 
 
-We will offer a way where coders, people who are building something, go to this Wikipedia for standards (Unite DAO) because we want to have them in the same place. 
+We will offer a way where coders, people who are building something, go to this Wikipedia for standards (Unite DAO) because we want to have them in the same place. I look for the standard, and if it's there, I can use it. If not - I can build it within the Unite DAO or look for someone in the Unite DAO community who would build the standard. 
 
-I look for the standard, and if it's there, I can use it. If not - I can build it within the Unite DAO or look for someone in the Unite DAO community who would build the standard. 
+A standard can be almost anything and used not just by coders. So finally, the ones who are using the standard are bloggers, artists, musicians, entrepreneurs, DeFi, Metaverse, Gaming, NFTs, and many more. Standards can be used for anything because the standard is just a way of naming things that we both agree on and understand.
 
-A standard can be almost anything and used not just by coders. So finally, the ones who are using the standard are bloggers, artists, musicians, entrepreneurs, DeFi, Metaverse, Gaming, NFTs, and many more.
-
-Standards can be used for anything because the standard is just a way of naming things that we both agree on and understand.
-
-We can build standards fast, standards that builders make. Builders can be coders, artists, musicians, or anybody who needs a standard and want to use it.
-
-Builders can segment into working groups and verticals. Then you can have a working group for NFT, Metaverse, Music, Security, DeFi, Gaming, Art, and many more.
-
-There can be a lot of working groups, and they can grow organically — this way, you can scale standards, and no one controls them. 
+We can build standards fast, standards that builders make. Builders can be coders, artists, musicians, or anybody who needs a standard and want to use it. Builders can segment into working groups and verticals. Then you can have a working group for NFT, Metaverse, Music, Security, DeFi, Gaming, Art, and many more. There can be a lot of working groups, and they can grow organically — this way, you can scale standards, and no one controls them. 
 
 There are some standards that you need to pay if you want to use them. And we think it's wrong. Standards really should be Public Goods and open-source so everybody can use them.
 
